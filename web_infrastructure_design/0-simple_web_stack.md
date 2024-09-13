@@ -8,7 +8,6 @@ Infrastructure Breakdown (Single Server with LAMP Stack)
 The Server (IP: 8.8.8.8):
 
 
-<<img/> C:\Users\Thonon Student 01\OneDrive\Bureau\ICONOGRAPHIES PROJET VIVVOY
 <Image Source="pack://application:C:\Users\Thonon Student 01\OneDrive\Bureau\ICONOGRAPHIES PROJET VIVVOY/fea9b550-b4ed-4a00-8a96-d4656486c1fc.jpg" />
 
 
