@@ -8,7 +8,7 @@ Infrastructure Breakdown (Single Server with LAMP Stack)
 The Server (IP: 8.8.8.8):
 
 
-<Image Source="pack://application:C:\Users\Thonon Student 01\OneDrive\Bureau\ICONOGRAPHIES PROJET VIVVOY/fea9b550-b4ed-4a00-8a96-d4656486c1fc.jpg" />
+![Illustration](OneDrive\Bureau\ICONOGRAPHIES PROJET VIVVOY/fea9b550-b4ed-4a00-8a96-d4656486c1fc.jpg)
 
 
 The server is a physical or virtual machine that hosts the website and runs the web server, application server, and database.
